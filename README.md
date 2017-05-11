@@ -41,7 +41,8 @@ try {
 }
 ```
 
-##Responses
+## Responses
+
 ```php
 //var_dump($api->sendOrder($order));
 
