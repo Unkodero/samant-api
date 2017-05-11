@@ -11,6 +11,8 @@ class OrderModel
     public $email;
     public $phone;
     public $mobilephone;
+    public $country;
+    public $country_id;
     public $city;
     public $city_id;
     public $country;
